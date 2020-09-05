@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hostname</key>
+	<string>Senior.local</string>
+	<key>hostuuid</key>
+	<string>2BC23BDF-016C-5C1F-8E05-E54F1F869736</string>
+	<key>pid</key>
+	<integer>626</integer>
+	<key>processname</key>
+	<string>photolibraryd</string>
+	<key>uid</key>
+	<integer>501</integer>
+</dict>
+</plist>
